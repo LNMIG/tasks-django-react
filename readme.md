@@ -109,4 +109,4 @@
 - Create component inside __Client/src/components__:
   - __Navigation__ : to navigate among pages
 ---
-
+- Create components, pages and api functions to connect frontend to backend
